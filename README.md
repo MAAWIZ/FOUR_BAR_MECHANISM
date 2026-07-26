@@ -1,4 +1,4 @@
-# 2D Four-Bar Mechanism
+# Four-Bar Mechanism
 
 ## Project Overview
 This repository contains the mechanical design, 2D drafting, and kinematic simulation of a classic four-bar mechanism. The project models the fundamental mechanical conversion of continuous rotational motion into oscillating motion using four rigid links: a fixed frame, a driving crank, a connecting coupler, and an oscillating rocker. 
